@@ -1,0 +1,10 @@
+Project: Bookstore
+Our store is looking to better keep track of sales as well as contact with publishers. The current database we have been using is very limiting in what we can keep track of.
+We need to keep track of what novels we have available for sale, as well as when they came in.
+We want to be able to offer discounts (15% off) to our members, though we know that not everyone may want to sign up for an annual membership, so we need to keep track of that regarding the sales.
+Ideally, the database should perform the following tasks:
+* Keep track of how many copies of a novel have sold since its publication date.
+* Keep track of how many purchases a customer makes each month.
+* It would be nice to know how many customers sign up for a membership (or renew theirs) every month.
+* Keep track of the percentage of each genre sold of the total books sold in a month. 
+* Keep track of how many novels were sold that were published by a certain publisher so that information may be forwarded on to the publishing contact.
